@@ -1,5 +1,8 @@
-
-matplotlib
-numpy
-ipywidgets
-conda install -c conda-forge ipympl
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
+  - numpy
+  - ipywidgets
+  pip:
+    - ipympl
