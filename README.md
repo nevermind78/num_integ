@@ -13,6 +13,6 @@
 ![Alt Text](demo.gif)
 
 
-<img src="https://fr.wikipedia.org/wiki/Calcul_num%C3%A9rique_d%27une_int%C3%A9grale#/media/Fichier:Int%C3%A9gration_num_rectangles.svg"
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Int%C3%A9gration_num_rectangles.svg/300px-Int%C3%A9gration_num_rectangles.svg.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
