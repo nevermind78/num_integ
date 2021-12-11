@@ -11,3 +11,8 @@
 
 
 ![Alt Text](demo.gif)
+
+
+<img src="https://fr.wikipedia.org/wiki/Calcul_num%C3%A9rique_d%27une_int%C3%A9grale#/media/Fichier:Int%C3%A9gration_num_rectangles.svg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
